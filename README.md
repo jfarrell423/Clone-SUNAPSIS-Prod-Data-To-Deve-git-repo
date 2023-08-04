@@ -13,6 +13,5 @@ in the Development Environment. Doing so without having sensitive information in
 With the help of SUNAPSIS Support I wrote this script to Anamolize the Student Data,
 after a Restore of Production Data to the development database.
 
-Please Note taht I only touch the TABLES that The University of Tennessee use at the moment.
+Please Note that I only touch the TABLES that The University of Tennessee use at the moment.
 If you add a table I do not touch let me know and I can add it to the script.
-
